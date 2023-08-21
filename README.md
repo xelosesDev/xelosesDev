@@ -1,5 +1,5 @@
 # 👦 About me:
-- My Name is <span style="color:red">{error: 404}/span>.<br>
+- My Name is <font color="red">{error: 404}</font>.<br>
 - I am **16 years old**.<br>
 - I am from **Czech Republic**.<br>
 - Android enjoyer
