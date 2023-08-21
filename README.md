@@ -1,5 +1,5 @@
 # 👦 About me:
-- My Name is Petr
+- My Name is secret. 
 - I am **16 years old**.<br>
 - I am from **Czech Republic**.<br>
 - Android enjoyer
