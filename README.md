@@ -16,6 +16,7 @@ Perl
 Python
 TypeScript
 C++
+Kotlin (not much) 
 ```
 
 <!--END_SECTION:waka-->
